@@ -1,6 +1,6 @@
 # Project ScanTailor-CLI-GUI
 
-_created by Csaba Kovacs_
+_created by Csaba Kovacs. shared via [scantailor-devel](https://groups.google.com/forum/#!topic/scantailor-devel/xK537XDatVQ)  google group_
 
 It is a batch processing helper – GUI – for “ScanTailor-CLI” 
 (Enhanced version - it may not work for the regular version-).
