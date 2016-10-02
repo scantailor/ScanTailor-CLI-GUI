@@ -1,0 +1,10 @@
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Release\ScanTailor-CLI-GUI.exe.config
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Release\ScanTailor-CLI-GUI.exe
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Release\ScanTailor-CLI-GUI.pdb
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Release\ComboBoxMC.dll
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Release\ComboBoxMC.pdb
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Release\ScanTailor_CLI_GUI.Form_ScanTailor_CLI.resources
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Release\ScanTailor_CLI_GUI.Properties.Resources.resources
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Release\ScanTailor-CLI-GUI.csproj.GenerateResource.Cache
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Release\ScanTailor-CLI-GUI.exe
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Release\ScanTailor-CLI-GUI.pdb

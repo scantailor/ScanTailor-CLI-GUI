@@ -1,0 +1,11 @@
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Debug\ScanTailor-CLI-GUI.exe.config
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Debug\ScanTailor-CLI-GUI.exe
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Debug\ScanTailor-CLI-GUI.pdb
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Debug\ComboBoxMC.dll
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\bin\Debug\ComboBoxMC.pdb
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Debug\ScanTailor_CLI_GUI.Form_ScanTailor_CLI.resources
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Debug\ScanTailor_CLI_GUI.Properties.Resources.resources
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Debug\ScanTailor-CLI-GUI.csproj.GenerateResource.Cache
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Debug\ScanTailor-CLI-GUI.exe
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Debug\ScanTailor-CLI-GUI.pdb
+C:\DATA\Projects\VS\ScanTailor-CLI-GUI\ScanTailor-CLI-GUI\obj\Debug\ScanTailor-CLI-GUI.csprojResolveAssemblyReference.cache
